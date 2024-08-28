@@ -1,5 +1,7 @@
 # FoodManager
 
+Project Report: https://drive.google.com/file/d/1ez2tc4DKTKrDWslWheUKjhegmqm7X7P7/view?usp=sharing
+
 PantryCraft is a web application designed to help users manage their ingredients efficiently and generate recipe suggestions based on available items. By leveraging modern technologies like MongoDB, React.js, and the OpenAI API, PantryCraft aims to reduce food waste and simplify meal planning.
 
 ## Table of Contents
